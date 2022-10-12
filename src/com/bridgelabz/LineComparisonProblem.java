@@ -1,6 +1,9 @@
-// UC-3 Line Comparison Problem compareTo
+// UC-2 Line Comparison Problem equals lines
 
 package com.bridgelabz;
+
+import java.util.Objects;
+
 public class LineComparisonProblem
 {
     public static double lengthOfLine1;
@@ -15,19 +18,18 @@ public class LineComparisonProblem
         lengthOfLine2 =Math.sqrt(Math.pow(x4-x3,2) + Math.pow(y4-y3,2));
         System.out.println("Length of Second Line : "+ lengthOfLine2);
     }
-    void compareTo()
+    void equal()
     {
-        if(Double.compare(lengthOfLine1,lengthOfLine2)==0) // Compare To function
-            System.out.println("equals");
-        else if (Double.compare(lengthOfLine1,lengthOfLine2)>0)
-            System.out.println("line 1 Greater then line 2");
+        if(Objects.equals(lengthOfLine1, lengthOfLine2))
+            System.out.println("Both lines are equals");
         else
-            System.out.println("line 1 lesser then line 2");
+            System.out.println("Lines are not equals");
     }
     public static void main(String[] args)
     {
         LineComparisonProblem line = new LineComparisonProblem(); // Object created
         line.lengthOfLine(); // call method
-        line.compareTo(); // call compareTo function
+        line.equal();
+
     }
 }
