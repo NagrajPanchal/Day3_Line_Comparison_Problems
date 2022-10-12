@@ -34,5 +34,6 @@ public class LineComparisonProblem
         LineComparisonProblem line = new LineComparisonProblem(); // Object created
         line.lengthOfLine(); // call method
         line.equal();
+
     }
 }
