@@ -4,6 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+    <list default="true" id="74bca731-250c-40cf-8b79-b40bde375274" name="Changes" comment="Added : using java compare() function">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/LineComparisonProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/LineComparisonProblem.java" afterDir="false" />
+    </list>
     <list default="true" id="b72f2189-bf3d-4bff-ac29-ea4da8d04e3b" name="Changes" comment="Added : using java compare() function" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
