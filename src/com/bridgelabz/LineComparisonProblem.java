@@ -1,4 +1,4 @@
-// UC-1 Line Comparison Problem length of line
+// UC-2 Line Comparison Problem length of line equals()
 
 package com.bridgelabz;
 
@@ -21,13 +21,9 @@ public class LineComparisonProblem
     void equal()
     {
         if(Objects.equals(lengthOfLine1, lengthOfLine2))
-        {
             System.out.println("Both lines are equals");
-        }
         else
-        {
-            System.out.println("Lines are not equals");
-        }
+            System.out.println("Lines are not equals");        
     }
     public static void main(String[] args)
     {
