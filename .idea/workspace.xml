@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b72f2189-bf3d-4bff-ac29-ea4da8d04e3b" name="Changes" comment="Added : Welcome to Line Comparison Problem">
+    <list default="true" id="b72f2189-bf3d-4bff-ac29-ea4da8d04e3b" name="Changes" comment="Added : Two line Comparison equals">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/LineComparisonProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/LineComparisonProblem.java" afterDir="false" />
     </list>
@@ -23,7 +23,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="UC-1_LineComparisonLengthOfLine" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -79,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1665548486505</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added : Length of Line">
+      <created>1665549602613</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1665549602613</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added : Two line Comparison equals">
+      <created>1665552105295</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1665552105295</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -95,6 +109,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added : Welcome to Line Comparison Problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Welcome to Line Comparison Problem" />
+    <MESSAGE value="Added : Length of Line" />
+    <MESSAGE value="Added : Two line Comparison equals" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Two line Comparison equals" />
   </component>
 </project>
