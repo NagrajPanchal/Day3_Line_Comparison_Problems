@@ -1,9 +1,6 @@
 // UC-4 Line Comparison Problem equal and Compare
 
 package com.bridgelabz;
-
-import java.util.Objects;
-
 public class LineComparisonProblem
 {
     public static double lengthOfLine1;
@@ -39,6 +36,6 @@ public class LineComparisonProblem
         LineComparisonProblem line = new LineComparisonProblem(); // Object created
         line.lengthOfLine(); // call method
         line.equal(); //equals
-        line.compareTo();
+        line.compareTo(); // call compareTo function
     }
 }
