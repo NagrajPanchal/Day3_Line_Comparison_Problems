@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="74bca731-250c-40cf-8b79-b40bde375274" name="Changes" comment="Added : Equal and Compare">
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Line.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/bridgelabz/Point.java" afterDir="false" />
+    <list default="true" id="74bca731-250c-40cf-8b79-b40bde375274" name="Changes" comment="Added : using java compare() function">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/bridgelabz/LineComparisonProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/bridgelabz/LineComparisonProblem.java" afterDir="false" />
     </list>
@@ -39,13 +37,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Nagraj Panchal/Desktop/bridgeLabz/batch205/Practice"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="LineComparisonProblem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.bridgelabz.LineComparisonProblem" />
@@ -69,7 +66,7 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="74bca731-250c-40cf-8b79-b40bde375274" name="Changes" comment="Added : Equal and Compare" />
+      <changelist id="b72f2189-bf3d-4bff-ac29-ea4da8d04e3b" name="Changes" comment="" />
       <created>1665547359953</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -96,14 +93,7 @@
       <option name="project" value="LOCAL" />
       <updated>1665552105295</updated>
     </task>
-    <task id="LOCAL-00004" summary="Added : Equal and Compare">
-      <created>1665597321877</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1665597321877</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -121,7 +111,6 @@
     <MESSAGE value="Added : Welcome to Line Comparison Problem" />
     <MESSAGE value="Added : Length of Line" />
     <MESSAGE value="Added : Two line Comparison equals" />
-    <MESSAGE value="Added : Equal and Compare" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added : Equal and Compare" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added : Two line Comparison equals" />
   </component>
 </project>
