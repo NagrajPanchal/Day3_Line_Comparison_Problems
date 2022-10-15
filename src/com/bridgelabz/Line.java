@@ -39,6 +39,4 @@ public static void equal(Line line1, Line line2)
         else
             System.out.println("line 1 lesser then line 2");
     }
-
-
 }
